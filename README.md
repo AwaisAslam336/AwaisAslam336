@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Awais Aslam</h1>
-<h3 align="center">A passionate backend developer from Pakistan</h3>
+<h3 align="center">A passionate MERN stack developer from Pakistan</h3>
 <img align="right" alt="Coding" height="250" width="400" src="https://github.com/AwaisAslam336/AwaisAslam336/blob/main/codingImage.jpg">
 
 - 🔭 I’m currently working on **MERN Stack**
